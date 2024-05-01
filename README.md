@@ -30,4 +30,4 @@ Telegram: [@doremifamiredo](https://t.me/doremifamiredo)
 #### Профессиональный опыт 
 2012 - 2024 г. учитель музыки и технологии в общеобразовательных школах _(высшая категория)_
 
-![фото](photo12.JPG)
+![фото](https://github.com/doremifamiredo/resume/blob/main/photo12.jpg?raw=true)
